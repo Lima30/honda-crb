@@ -1,18 +1,22 @@
 .image-grayscale {
     filter: grayscale(100%);
 }
-.fa-star{
-    font-size: 12px;
-}
-.fa-star.filled{
-    color: #FFC014;
-}
-.fa-star.empty{
-    color: #AEAEAE;
-}
-.color{
-    color: E76F51;
-}
+
 .bi bi-star-fill{
     color: E76F51;
+}
+.bg-color {
+background-color: #264653;
+}
+button {
+   background-color: #E76F51;
+   width: 168px;
+   height: 44px;
+   border-radius: 10px;
+}
+.sp-color {
+    color: #E76F51;
+}
+.bi-star-fill {
+fill: #E76F51 ;
 }
